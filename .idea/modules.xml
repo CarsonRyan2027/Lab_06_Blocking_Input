@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CtoFConverter/CtoFConverter.iml" filepath="$PROJECT_DIR$/CtoFConverter/CtoFConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FuelCosts/FuelCosts.iml" filepath="$PROJECT_DIR$/FuelCosts/FuelCosts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06_Blocking_Input.iml" filepath="$PROJECT_DIR$/Lab_06_Blocking_Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetricConverter/MetricConverter.iml" filepath="$PROJECT_DIR$/MetricConverter/MetricConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RectangleInfo/RectangleInfo.iml" filepath="$PROJECT_DIR$/RectangleInfo/RectangleInfo.iml" />
+    </modules>
+  </component>
+</project>
